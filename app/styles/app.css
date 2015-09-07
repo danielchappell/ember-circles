@@ -1,0 +1,12 @@
+.circle-form {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 1%;
+  margin: 10px;
+}
+
+.circle-info {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 5px;
+}
